@@ -4,7 +4,7 @@ Flask-Cache==0.13.1
 Flask-Compress==1.4.0
 Flask-HTMLmin==1.2.1
 Flask-JSON==0.3.2
-Jinja2==2.9.6
+Jinja2==2.11.3
 MarkupSafe==1.0
 Werkzeug==0.12.2
 certifi==2017.4.17
